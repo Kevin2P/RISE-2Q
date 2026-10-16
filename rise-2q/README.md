@@ -1,4 +1,5 @@
 # RISE-2Q
+Radio-Level Isolation and Slicing Enforcing Quarantine and QoS
 
 Simulator, scripts and data for the paper "Misclassified Devices in Quarantine Slicing for IoT-DDoS across
 Attacker Placements in 5G NR".
